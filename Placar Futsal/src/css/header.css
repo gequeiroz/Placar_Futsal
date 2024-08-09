@@ -1,0 +1,40 @@
+body {
+    background-color: #cacaca;
+}
+.header {
+    height: 7em;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 25px;
+    background: linear-gradient(145deg, #f0f0f0, #cacaca);
+    box-shadow:  7px 7px 10px #a1a1a1,-7px -7px 10px #ffffff;
+    margin: 1rem ;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 1.3rem;line-height: 1.2em
+}
+
+.header h1 {
+    font-size: 2rem;
+}
+
+.header h6 {
+    font-size: 1.125rem;
+}
+
+.header .logo-lucrecia {
+    height: 6rem;
+    width: 15rem;
+}
+
+.header .institucional {
+    text-align: center;
+
+}
+
+.header .logo-rn {
+    height: 4rem;
+    width: 14rem;
+}
